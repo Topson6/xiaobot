@@ -13,7 +13,7 @@ func main() {
         panic(err)
     }
     bot := xiaobot.NewMiBot(config)
-    err = bot.Run()
+    err = bot.Run()1111114
     if err != nil {
         panic(err)
     }
